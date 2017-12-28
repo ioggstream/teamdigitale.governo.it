@@ -44,6 +44,8 @@ It is a radical change in the way the Public Administration operates. Everything
 {:.h4}
 [Find out about the technical aspects on Developers Italia](https://developers.italia.it)
 
+**[Follow the latest updates on Twitter](https://twitter.com/ITdigitalteam)**
+
 ### The role of the Team
 
 The Digital Team immediately became a promoter and took charge of the creation of the
@@ -56,7 +58,6 @@ open roadmaps and architectural documents. At the same time, we meet with the ad
 {% include medium_project.html %}
 
 
-{% include twitter_timeline.html %}
 
 ### Media
 For any contact request received from the media and journalists, the Digital Transformation Team's press and communication office is the point of reference.
